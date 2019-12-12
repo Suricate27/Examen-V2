@@ -5,6 +5,10 @@ zgvt
 r
 trvrt
 ----------------------------------
+<<<<<<< HEAD
 test youri
+=======
+J'ai fais des modif encore des grosse modif
+>>>>>>> b
 ----------------------------------
 J'ai aussi ajouté des trucs 
